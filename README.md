@@ -25,7 +25,7 @@ For full tutorials on these projects, visit [SmartTechTip.com](https://www.smart
 
 Stay up-to-date with the latest tutorials, project ideas, and tech tips:
 - **Instagram**: [SmartTechTip Instagram](https://www.instagram.com/smarttechtip)
-- **YouTube**: [SmartTechTip YouTube Channel](link-to-your-YouTube)
+- **YouTube**: [SmartTechTip YouTube Channel](https://www.youtube.com/smarttechtip)
 - **Blog**: [SmartTechTip.com](https://www.smarttechtip.com/)
 
 
